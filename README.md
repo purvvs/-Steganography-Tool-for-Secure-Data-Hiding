@@ -17,17 +17,6 @@ Before running the project, ensure you have the following installed:
 
 
 
-example:
-encryption:
-Enter 'e' to encode a message or 'd' to decode a message: e
-Enter the path of the image: input_image.png
-Enter the message to hide: Secret Message
-Enter the output image path: encoded_image.png
-Enter the encryption key: mysecurekey
+![image](https://github.com/user-attachments/assets/a9ac860f-f5d8-4b71-9328-7d84992689ee)
 
-
-decryption:
-Enter 'e' to encode a message or 'd' to decode a message: d
-Enter the path of the encoded image: encoded_image.png
-Enter the decryption key: mysecurekey
 
